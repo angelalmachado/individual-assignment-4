@@ -12,7 +12,7 @@ output:
         toc_depth: 2
     
 bibliography: references.bib 
-#base_format: rticles::jss_article
+base_format: rticles::jss_article
 
 ---
 
